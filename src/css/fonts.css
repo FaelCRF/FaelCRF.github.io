@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Regular.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: 'Roboto-Thin';
+    src: url(../fonts/Roboto-Thin.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url(../fonts/Roboto-Light.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: 'Konami';
+    src: url(../fonts/KonSystem-YB8j.ttf) format('truetype')
+}
